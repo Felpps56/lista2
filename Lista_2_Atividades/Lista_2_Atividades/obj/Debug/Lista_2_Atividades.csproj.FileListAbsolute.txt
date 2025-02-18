@@ -1,6 +1,0 @@
-C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\Lista_2_Atividades\Lista_2_Atividades\obj\Debug\Lista_2_Atividades.csprojResolveAssemblyReference.cache
-C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\Lista_2_Atividades\Lista_2_Atividades\bin\Debug\Lista_2_Atividades.exe.config
-C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\Lista_2_Atividades\Lista_2_Atividades\bin\Debug\Lista_2_Atividades.exe
-C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\Lista_2_Atividades\Lista_2_Atividades\bin\Debug\Lista_2_Atividades.pdb
-C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\Lista_2_Atividades\Lista_2_Atividades\obj\Debug\Lista_2_Atividades.exe
-C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\Lista_2_Atividades\Lista_2_Atividades\obj\Debug\Lista_2_Atividades.pdb
